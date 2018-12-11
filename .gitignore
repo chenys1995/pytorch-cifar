@@ -1,0 +1,10 @@
+*.log
+*.pyc
+__pycache__/
+logs/
+checkpoint/
+.cache
+*.tar
+.idea/
+.DS_Store
+.vscode/

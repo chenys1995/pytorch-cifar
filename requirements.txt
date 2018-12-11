@@ -1,0 +1,5 @@
+torch >=1.0.0
+torchvision
+tensorflow==1.7
+tensorboardX
+
